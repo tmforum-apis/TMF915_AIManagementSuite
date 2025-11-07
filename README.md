@@ -1,7 +1,8 @@
-# TMF915_AIManagementSuite
+# TMF915 AIManagementSuite
 
-The API Component Suite for AI Management defines the set of operations that should be offered in order that a Service Provider can govern Artificial Intelligence systems deployed at scale. Effective governance and management of AI must span the lifecycle from design through deployment and eventual withdrawal from service. However, the initial focus of the AI Management API is restricted to the in-life aspects of AI and in particular on the management of ‘model contracts’. Model contracts provide a mechanism to document and enforce the dependencies and constraints that must be observed for an AI system to function correctly. They are also a means to capture the actions that should take place when any of the dependencies or constraints in the model contract are no longer satisfied.
+TM Forum Open API (Apache 2.0) AIManagementSuite API.
 
-To access this API; (the Specification, Postman Collection, Swagger file, Reference Implementation, Conformance Profile, and CTK) go to the Open API table at:
+TM Forum Open API for AIManagementSuite.
 
-https://projects.tmforum.org/wiki/display/API/Open+API+Table
+The resources in this repository are a mirror of the official versions, published here for your convenience.
+The authoritative source of information for this API is: https://www.tmforum.org/oda/open-apis/directory/
